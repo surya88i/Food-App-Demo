@@ -7,6 +7,9 @@ A new Flutter application.
 
 ![Screenshot_20200611-165153](https://user-images.githubusercontent.com/51407211/84380231-a36e8f80-ac04-11ea-9b23-43b23c23dea5.png)
 
+
+![Screenshot_20200611-165213](https://user-images.githubusercontent.com/51407211/84380358-d6b11e80-ac04-11ea-8a51-410efdc7bdb2.png)
+
 # Getting Started
 
 This project is a starting point for a Flutter application.
