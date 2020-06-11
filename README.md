@@ -1,4 +1,4 @@
-# upload_image
+# Food-App-Demo
 
 A new Flutter application.
 
